@@ -3,6 +3,9 @@
 This Project of Ecommerce database management system allows online businesses to identify potential clients and determine a strategy to push them through the sales funnel based on information already available.
 
 The technology stack, tools, and skills required for the project.
+Programming Languages -
+Softwares -
+Key Topics - 
 
 Advance DataBases
 
